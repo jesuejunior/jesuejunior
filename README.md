@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jesuejunior&margin-w=5&column=4)](https://github.com/jesuejunior)
+https://github-profile-trophy.vercel.app/?username=jesuejunior&margin-w=5&column=4
+
 <!--
 **jesuejunior/jesuejunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
